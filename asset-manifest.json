@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/esgarchitect1.aus/static/js/main.09cc6bc4.chunk.js",
+    "runtime-main.js": "/esgarchitect1.aus/static/js/runtime-main.a0ec5474.js",
+    "static/css/2.f7ed8977.chunk.css": "/esgarchitect1.aus/static/css/2.f7ed8977.chunk.css",
+    "static/js/2.ea61ead5.chunk.js": "/esgarchitect1.aus/static/js/2.ea61ead5.chunk.js",
+    "static/js/3.7579bb6d.chunk.js": "/esgarchitect1.aus/static/js/3.7579bb6d.chunk.js",
+    "static/js/4.8c263288.chunk.js": "/esgarchitect1.aus/static/js/4.8c263288.chunk.js",
+    "index.html": "/esgarchitect1.aus/index.html",
+    "static/js/2.ea61ead5.chunk.js.LICENSE.txt": "/esgarchitect1.aus/static/js/2.ea61ead5.chunk.js.LICENSE.txt",
+    "static/js/3.7579bb6d.chunk.js.LICENSE.txt": "/esgarchitect1.aus/static/js/3.7579bb6d.chunk.js.LICENSE.txt",
+    "static/js/4.8c263288.chunk.js.LICENSE.txt": "/esgarchitect1.aus/static/js/4.8c263288.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/esgarchitect1.aus/static/media/roboto-vietnamese-400-normal.3230f9b0.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0ec5474.js",
+    "static/css/2.f7ed8977.chunk.css",
+    "static/js/2.ea61ead5.chunk.js",
+    "static/js/main.09cc6bc4.chunk.js"
+  ]
+}
